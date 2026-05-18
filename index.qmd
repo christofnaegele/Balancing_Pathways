@@ -192,7 +192,7 @@ The online self-assessment is non-selective. Participants receive a completion c
 <br> <br>
 Gender distribution in lower secondary education in Basel-Landschaft can be assumed to be broadly balanced across the analysed years, fluctuating only marginally around 50%.
 
-# Results 
+# Methods: Statements
 
 We used thematic analysis to identify patterns of meaning across participants’ responses.
 
@@ -215,7 +215,7 @@ Multiple codings within a single response were allowed.
 
 At the time of response, participants were enrolled in lower secondary school (aged 14-15).
 
-# Results Thematic Areas
+# Results: Thematic Areas
 
 A.  Learning Formats and Conceptions of Knowledge
 B.  Future and Educational Orientation 
@@ -350,9 +350,13 @@ E.  Evaluations and Attributions
 </table>
 </div>
 
-# Results 2
+# Results: Typical Statements
 
-Typical statements
+A.  Learning Formats and Conceptions of Knowledge
+B.  Future and Educational Orientation 
+C.  Social Roles and Relationships 
+D.  Competence and Identity 
+E.  Evaluations and Attributions 
 
 ## A. Learning Formats and Conceptions of Knowledge
 
@@ -585,7 +589,7 @@ Preferred due to higher prestige, stronger recognition, and broader futures, whi
 χ<sup>2</sup>(28) = 7.73, p = .9999
 </div>
 
-## Conclusions: Deep Refelction Not in Demand
+## Conclusions: Deep Reflection Is Not in Demand
 <br> 
 
 <div class="cols" style="grid-template-columns: 1fr 1fr;">
@@ -599,17 +603,17 @@ Main Drivers:
 
 - End of compulsory schooling (compulsory education ends at 16, nobody can fail).
 - Teachers and Schools
-- Switzerland has establish a system that efficently pushes youth into upper secondary education in a process that takes 6 months. 
+- Switzerland has established a system that efficiently pushes young people into upper-secondary education in a process that takes 6 months. 
 <br><br>
 
 Predominant Paradigm: <br>Fit, one-time matching
 </div>
 </div>
 
-# Conclusions the Labour Market 
+# Conclusions: The Labour Market 
 
 ::: {.labour-market-slide}
-- There is a cleary policy to make iVET the first choice for all. 
+- There is a clear policy to make iVET the first choice for all. 
 
   - **Canton Basel-Landschaft (rural) approx.  54%**
   - Canton Basel-Stadt (city) 35 - 40% 
@@ -617,12 +621,12 @@ Predominant Paradigm: <br>Fit, one-time matching
  
 
 - Nevertheless
-  - Students that have the choice GE or iVET prefer iVET
+  - Students who have the choice between GE and iVET prefer iVET.
 
 - No changes during the last 8 years
-  - despite different measuers of the canton  
+  - despite different measures of the canton  
 
-- It might be: The labour market in that specific region does not (only) ask for "Berufe", but offers jobs that are better accesible through general education and not iVET. 
+- It might be: The labour market in that specific region does not only ask for "Berufe", but offers jobs that are better accessible through general education and not iVET. 
 :::
 
 # Storage

@@ -110,6 +110,14 @@
   opacity: 0.9;
 }
 
+.labour-market-slide ul ul {
+  font-size: 0.8em;
+}
+
+.labour-market-slide > ul {
+  margin-top: 1.1em;
+}
+
 /* 6) Section slide */
 .reveal .slides section.section-slide {
   display: flex ;

@@ -1,13 +1,5 @@
 ---
-title: "Stockholm International Conference on VET
- <br> <br> <br><br> 
- Balancing School-Based and Dual VET Pathways: <br>
- Insights Into Student Perceptions
- <br> <br> <br> <br>
- Dr Christof Nägele <br> <br>
- University of Applied Sciences and Arts Northwestern Switzerland <br>University of Basel
- <br>  <br> 
-May 2026"
+title: "Stockholm International Conference of Research on Vocational Education and Training 2026"
 format:
   revealjs:
     center: false
@@ -21,6 +13,28 @@ format:
     height: 900
 ---
 
+# 
+
+**Balancing School-Based and Dual VET Pathways: <br>
+Insights Into Student Perceptions**
+<br> <br> 
+Dr Christof Nägele <br>
+
+::: {=html}
+<div class="cols" style="grid-template-columns: 120px 1fr; gap: 36px; align-items: center;">
+<div style="display: flex; align-items: flex-end; height: 100%;">
+![](images/qr-code.png){width=95px}
+</div>
+
+<div>
+
+University of Applied Sciences and Arts Northwestern Switzerland <br>
+University of Basel
+<br>
+May 2026
+</div>
+</div>
+:::
 
 
 # Problem Statement
@@ -43,7 +57,6 @@ Access to specialised upper-secondary schools is often restricted.
 
 - how lower-secondary students aiming to enter upper-secondary schools perceive learning opportunities in general education (WMS, FMS) compared with iVET and 
 - why they opt for general education and not iVET.
-
 
 ## Policy Background
 
@@ -183,13 +196,9 @@ Gender distribution in lower secondary education in Basel-Landschaft can be assu
 
 We used thematic analysis to identify patterns of meaning across participants’ responses.
 
-General education: 
-I imagine studying at a specialised upper-secondary school is easier than at a lower secondary school, because you have more time to plan everything yourself. The learning is also more tailored to the individual, as you can choose which compulsory-option subjects to take, so it’s certainly more enjoyable. You’ll probably spend more time learning on a computer and might even have your teaching materials and assignments online. There’ll likely be more group work and discussion too. It might also be easier to work with people who share the same interests.
+**General education**. I imagine studying at a specialised upper-secondary school is easier than at a lower secondary school, because you have more time to plan everything yourself. The learning is also more tailored to the individual, as you can choose which compulsory-option subjects to take, so it’s certainly more enjoyable. You’ll probably spend more time learning on a computer and might even have your teaching materials and assignments online. There’ll likely be more group work and discussion too. It might also be easier to work with people who share the same interests.
 
-Translated with DeepL.com (free version)
-
-iVET
-In initial vocational education and training, learning on the job is quite different, because you learn by doing, gain experience and have the chance to try things out. At school, you’ll probably just learn the theory, which you can then put into practice at work.
+**iVET**. In initial vocational education and training, learning on the job is quite different, because you learn by doing, gain experience and have the chance to try things out. At school, you’ll probably just learn the theory, which you can then put into practice at work.
 
 
 :::{.source}
@@ -599,6 +608,7 @@ Predominant Paradigm: <br>Fit, one-time matching
 
 # Conclusions the Labour Market 
 
+::: {.labour-market-slide}
 - There is a cleary policy to make iVET the first choice for all. 
 
   - **Canton Basel-Landschaft (rural) approx.  54%**
@@ -613,6 +623,7 @@ Predominant Paradigm: <br>Fit, one-time matching
   - despite different measuers of the canton  
 
 - It might be: The labour market in that specific region does not (only) ask for "Berufe", but offers jobs that are better accesible through general education and not iVET. 
+:::
 
 # Storage
 

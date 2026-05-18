@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#ffffff"/>
+  <style>
+    .card { rx:8; ry:8; }
+    .blue { fill:#c8e5fb; }
+    .grey { fill:#dedee9; }
+    .title-blue { font: 700 30px Arial, Helvetica, sans-serif; fill:#2478c4; text-anchor:middle; dominant-baseline:middle; }
+    .text-blue { font: 300 30px Arial, Helvetica, sans-serif; fill:#2478c4; text-anchor:middle; dominant-baseline:middle; }
+    .title-grey { font: 700 30px Arial, Helvetica, sans-serif; fill:#8f8f8f; text-anchor:middle; dominant-baseline:middle; }
+    .text-grey { font: 300 30px Arial, Helvetica, sans-serif; fill:#555555; text-anchor:middle; dominant-baseline:middle; }
+    .dash { stroke:#333333; stroke-width:1.5; stroke-dasharray:4 6; }
+  </style>
+
+  <!-- Row 1 -->
+  <rect class="card blue" x="18" y="24" width="355" height="265"/>
+  <text x="195.5" y="135" class="title-blue">Intro</text>
+  <text x="195.5" y="168" class="text-blue">Start here</text>
+
+  <rect class="card grey" x="415" y="24" width="355" height="265"/>
+  <text x="592.5" y="145" class="title-grey">Task 1:</text>
+  <text x="592.5" y="178" class="text-grey">My Plans</text>
+
+  <rect class="card grey" x="812" y="24" width="355" height="265"/>
+  <text x="989.5" y="145" class="title-grey">Task 2:</text>
+  <text x="989.5" y="178" class="text-grey">My Knowledge</text>
+
+  <rect class="card grey" x="1209" y="24" width="355" height="265"/>
+  <text x="1386.5" y="145" class="title-grey">Task 3:</text>
+  <text x="1386.5" y="178" class="text-grey">My Decision</text>
+
+  <line class="dash" x1="4" y1="333" x2="1585" y2="333"/>
+
+  <!-- Row 2 -->
+  <rect class="card grey" x="18" y="373" width="355" height="265"/>
+  <text x="195.5" y="493" class="title-grey">Task 4:</text>
+  <text x="195.5" y="526" class="text-grey">My Interests</text>
+
+  <rect class="card grey" x="415" y="373" width="355" height="265"/>
+  <text x="592.5" y="493" class="title-grey">Task 5:</text>
+  <text x="592.5" y="526" class="text-grey">My Interest Profiles</text>
+
+  <rect class="card grey" x="812" y="373" width="355" height="265"/>
+  <text x="989.5" y="493" class="title-grey">Task 6:</text>
+  <text x="989.5" y="526" class="text-grey">My Skills</text>
+
+  <line class="dash" x1="4" y1="686" x2="1585" y2="686"/>
+
+  <!-- Row 3 -->
+  <rect class="card grey" x="18" y="722" width="355" height="265"/>
+  <text x="195.5" y="842" class="title-grey">Task 7:</text>
+  <text x="195.5" y="875" class="text-grey">My Alternatives</text>
+
+  <rect class="card grey" x="415" y="722" width="355" height="265"/>
+  <text x="592.5" y="842" class="title-grey">Task 8:</text>
+  <text x="592.5" y="875" class="text-grey">The Conversation</text>
+
+  <rect class="card grey" x="812" y="722" width="355" height="265"/>
+  <text x="989.5" y="842" class="title-grey">Task 9:</text>
+  <text x="989.5" y="875" class="text-grey">My Next Steps</text>
+</svg>

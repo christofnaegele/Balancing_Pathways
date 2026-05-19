@@ -207,7 +207,7 @@ Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitati
 
 # Results: Coding
 
-In total, 79'327 coded segments were derived from responses by 6'117 participants to two questions on learning and development in general education at upper-secondary level (aged 16+).
+In total, 79'327 coded segments were derived from responses by 6'117 participants to two questions on learning and development in general education at upper-secondary level vs. iVET (aged 16+).
 
 This corresponds to a mean of 6.48 coded segments per person and question (12.97 per person across both questions).
 
